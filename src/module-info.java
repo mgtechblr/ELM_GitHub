@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Administrator
- *
- */
-module Registration {
-}
