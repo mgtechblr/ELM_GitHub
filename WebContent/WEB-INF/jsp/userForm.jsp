@@ -35,7 +35,7 @@
 				<form:option value="5" label="Brazil" />
 				<form:option value="6" label="Australia" />
 				<form:option value="7" label="New Zealand" />
-				<form:option value="8" label="Sri Lanka" />
+				<form:option value="8" label="Sri Lanka.." />
 			</form:select></td>
 		</tr>
 		<tr>
