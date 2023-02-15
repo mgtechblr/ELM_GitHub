@@ -9,7 +9,7 @@ import com.vaannila.service.UserService;
 @SuppressWarnings("deprecation")
 public class UserController extends SimpleFormController {
 
-	private UserService userService;
+	public  UserService userService;
 
 	public UserController()	{
 		setCommandClass(User.class);
