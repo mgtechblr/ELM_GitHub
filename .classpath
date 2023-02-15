@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.expression-3.0.0.M3.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web-3.0.0.M3.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="src/com/vaannila/web/UserController.java"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
