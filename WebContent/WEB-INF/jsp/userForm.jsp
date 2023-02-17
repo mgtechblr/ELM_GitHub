@@ -32,7 +32,8 @@
 				<form:option value="2" label="USA" />
 				<form:option value="3" label="UK" />
 				<form:option value="4" label="Europe" />
-				<form:option value="4" label="Sweden" />
+				<form:option value="5" label="Sweden" />
+				<form:option value="6" label="Germany" />
 			</form:select></td>
 		</tr>
 		<tr>
