@@ -34,6 +34,7 @@
 				<form:option value="4" label="Europe" />
 				<form:option value="5" label="Sweden" />
 				<form:option value="6" label="Germany" />
+				<form:option value="6" label="Switzerland" />
 			</form:select></td>
 		</tr>
 		<tr>
