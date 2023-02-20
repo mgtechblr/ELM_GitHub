@@ -42,12 +42,13 @@
 				<form:option value="4" label="Europe" />
 				<form:option value="5" label="Sweden" />
 				<form:option value="6" label="Germany" />
-				<form:option value="6" label="Switzerland" />
+				<form:option value="7" label="Switzerland" />
+				<form:option value="8" label="Australia" />
 			</form:select></td>
 		</tr>
 		<tr>
 			<td>About you :</td>
-			<td><form:textarea path="aboutYou" /></td>
+			<td><form:textarea path="aboutYourself" /></td>
 		</tr>
 		<tr>
 			<td>Community :</td>
